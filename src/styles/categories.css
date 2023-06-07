@@ -1,0 +1,19 @@
+.categories{
+    display: flex;
+    justify-content: center;
+}
+
+.categories div{
+    display: inline-block;
+    padding: 50px 0 0 30px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.categories div:hover{
+    color: #ff9f25;
+    transition: all .2s ease-in-out;
+}
+.categories div:not(:hover){
+    color: #000;
+    transition: all .2s ease-in-out;
+}

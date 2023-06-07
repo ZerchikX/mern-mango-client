@@ -1,0 +1,83 @@
+.aga{
+    padding: 0 15%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 10px;
+
+    
+}
+
+.all-items{
+    display: flex;
+    width: 100% auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+    margin: 10px 50px auto;
+    padding-bottom: 2%;
+}
+
+main .item{
+    width: 100% auto;
+    margin-bottom: 50px;
+    position: relative;
+    padding-bottom: 20px;
+
+}
+
+main .item .img{
+    width: 100%;
+
+}
+main .item .img:hover{
+    transform: scale(1.05);
+    transition: 500ms ease;
+}
+.rama{
+    height: 537px;
+    padding: 3%;
+    border: 0.3px solid rgba(255,255,255,0.4);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    
+}
+
+.name{
+    text-align: center;
+}
+
+.stars{
+    margin-top: 20px;
+}
+.price{
+    font-size: 20px;
+    margin-top: 30%;
+    font-weight: bold;
+}
+.add-to-cart{
+    position: absolute;
+    right: 10px;
+
+    background-color: #FF9F25;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    color: black;
+    border-radius: 50%;
+    cursor: pointer;
+    font-weight: 600;
+    
+}
+main .add-to-cart:hover{
+    transform: scale(1.5) translateY(-5px);
+    transition: 500ms ease;
+}
+main .add-to-cart:not(:hover){
+    transform: scale(1.0) translateY(5px);
+    transition: 500ms ease;
+}
+
+.tovarimage{
+    width: 254.73px;
+    height: 353.36px;
+}

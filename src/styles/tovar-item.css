@@ -1,0 +1,17 @@
+.one-price{
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+    
+}
+
+.price-cart{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 10px;
+}

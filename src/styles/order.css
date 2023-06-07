@@ -1,0 +1,43 @@
+.cartItem{
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+    border: 0.3px solid black;
+}
+
+.cartItem img{
+    width: 70px;
+    float: left;
+    margin-right: 20px;
+}
+
+.cartItem h2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.cartItem p{
+    color: black;
+    font-weight: 600;
+
+}
+
+.empty h2{
+    font-size: 20px;
+}
+.delete-icon{
+    float: right;
+    position: relative;
+    right: 10px;
+    top: 15px;
+    cursor: pointer;
+}
+.delete-icon:hover{
+    color: #ff9f25;
+    transform: scale(1.5);
+    transition: .2s ease-in-out;
+}
+.delete-icon:not(:hover){
+    color: #000;
+    transition: .2s ease-in-out;
+}

@@ -1,0 +1,7 @@
+<svg class="test" data-fa-transform="rotate-90" aria-hidden="true" data-prefix="far" data-icon="align-right" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="" style="transform-origin: 0.4375em 0.5em;" width="22px" height="22px">
+                            <g transform="translate(224 256)">
+                                <g transform="translate(0, 0)  scale(1, 1)  rotate(90 0 0)">
+                                    <path d="M160 80V48c0-6.627 5.373-12 12-12h264c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12H172c-6.627 0-12-5.373-12-12zM12 220h424c6.627 0 12-5.373 12-12v-32c0-6.627-5.373-12-12-12H12c-6.627 0-12 5.373-12 12v32c0 6.627 5.373 12 12 12zm0 256h424c6.627 0 12-5.373 12-12v-32c0-6.627-5.373-12-12-12H12c-6.627 0-12 5.373-12 12v32c0 6.627 5.373 12 12 12zm160-128h264c6.627 0 12-5.373 12-12v-32c0-6.627-5.373-12-12-12H172c-6.627 0-12 5.373-12 12v32c0 6.627 5.373 12 12 12z" transform="translate(-224 -256)"></path>
+                                </g>
+                            </g>
+                        </svg>

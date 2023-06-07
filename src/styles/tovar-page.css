@@ -1,0 +1,46 @@
+.contact{
+    padding: 0 15%;
+}
+
+.all-page{
+    display: flex;
+    margin-top: 50px;
+
+}
+.h4{
+    margin-left: 80px;
+}
+.opis{
+    display: flex;
+    font-size: 18px;
+    margin-left: 80px;
+    flex-direction: row;
+    gap: 1vw;
+
+}
+.opis:nth-child(1){
+    margin-top: 60px;
+}
+.pechka{
+    width: 35%;
+        
+}
+.pechka1{
+    width: 40%;
+}
+.pursh{
+    display: flex;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.pursh-btn{
+    margin-left: 48%;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+}
+.page-item .page-link{
+   background-color: orange;
+   color: white;
+}

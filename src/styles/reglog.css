@@ -1,0 +1,56 @@
+*{
+    font-family: montserrat, sans-serif;
+
+}
+
+h1{
+    margin-left: 200px;
+    font-size: 34px;
+
+}
+.regInt{
+    padding-left: 200px;
+}
+.regInt input{
+    width: 538px;
+    height: 47px;
+    font-size: 18px;
+    border: 0.5px solid rgba(0, 0, 0, 0.6);
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.btn1{
+width: 187px;
+height: 38px;
+border: none;
+font-size: 16px;
+background: #FF9F25;
+font-weight: bold;
+margin-top: 40px;
+cursor: pointer;
+margin-left: 200px;
+}
+
+.regA{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 30px;
+    
+}
+
+.auth{
+    margin-top: 50px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.reg{
+    margin-top: 25px;
+    margin-left: 50px;
+}

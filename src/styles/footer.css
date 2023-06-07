@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat, sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+    
+}
+footer{
+    position: relative;
+    bottom: 0;
+
+}
+
+.UpFooter{
+    display: flex;
+    width: 1920px;
+    height: 320px;
+    padding: 0 15%;
+    background-color: #EAEAEA;
+    margin-top: 100px;
+
+}
+.footerLogo{
+    display: flex;
+    text-decoration: none;
+    margin-top: 1%;
+  
+  }
+ 
+  .jap{
+    font-family: han zi;
+    color: #ff9f25;
+    font-size: 2vh;
+    margin-top: 20%;
+    margin-left: -25%;
+
+  }
+  .mangop{
+    font-family: han zi;
+    color: #ff9f25;
+    font-size: 5.5vh;
+    margin-top: 1%;
+  
+  }
+
+.footerMail{
+    display: flex;   
+}
+.footerMail a{
+    text-decoration: none;
+}
+.footerMail p{
+    margin-left: 35px;
+   margin-top: -12.5%;
+   color: black;
+   opacity: 40%;
+   font-size: 14px;
+}
+
+.footerLocation{
+    display: flex;
+    
+}
+.footerLocation a{
+    text-decoration: none;
+}
+.footerLocation p{
+    margin-left: 35px;
+    margin-top: -12.5%;
+    color: black;
+    font-size: 14px;
+    opacity: 40%;
+ }
+
+ .footerTime{
+    display: flex;
+    
+}
+.footerTime p{
+    margin-left: 35px;
+    margin-top: -22px;
+    color: black;
+    opacity: 40%;
+    font-size: 14px;
+ }
+ .footerTime a{
+    text-decoration: none;
+}
+
+ .footerCompany{
+    display: flex;
+    
+}
+.footerCompany p{
+    margin-left: 35px;
+    margin-top: -22px;
+    color: black;
+    opacity: 40%;
+    font-size: 14px;
+ }
+ .footerCompany a{
+    text-decoration: none;
+}
+
+.UpFooterCenter{
+    margin-top: 0.5%;
+    margin-left: 10%;
+}
+
+.UpFooterCenter ul li{
+    list-style-type: none;
+    margin-top: 4%;
+    font-size: 14px;
+    display: flex;
+
+
+}
+.UpFooterCenter a{
+    color: #000;
+    opacity: 40%;
+    text-decoration: none;
+}
+
+.UpFooterRight{
+    margin-top: 1%;
+    margin-left: 3.5%;
+    font-size: 14px;
+}
+
+.UpFooterRight p{
+    margin-top: 2%;
+    opacity: 40%;
+}
+.footerSeti{
+    margin-top: 5%;
+}
+
+
+.DownFooter{
+    display: flex;
+    width: 1920px;
+    height: 0 auto;
+    padding: 0 15%;
+    background-color: #000;
+    color: white;
+    font-size: 12px;
+}
+.DownFooterLeft{
+    display: flex;
+    margin-top: 18px;
+}
+.DownFooterLeft a{
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.DownFooterRight{
+    display: flex;
+
+}
