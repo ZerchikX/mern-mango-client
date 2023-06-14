@@ -75,8 +75,16 @@ header{
 .mango_logo{
   margin-top: -3%;
 }
+@font-face {
+    font-family: 'han_ziregular';
+    src: url('han-zi-webfont.woff2') format('woff2'),
+         url('han-zi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 .jp{
-  font-family: han zi;
+  font-family: han_ziregular;
   color: #ff9f25;
   font-size: 2vh;
   margin-top: 17%;
